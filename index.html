@@ -45,7 +45,7 @@
                 }
             }
             body {
-                background: linear-gradient(#070f21, #082355);
+                background: linear-gradient(#070f21, #042667);
             }
             header {
                 padding-top: 25vh;
@@ -63,8 +63,42 @@
                 width: 2000px;
                 height: 400px;
             }
-            .display-1{
+            .display-1 {
                 font-weight: 300;
+            }
+
+            .progress {
+                --bs-progress-height: 1rem;
+                --bs-progress-font-size: 0.75rem;
+                --bs-progress-bg: #3a4352; /* FONDO DE BARRA */
+                --bs-progress-border-radius: 0.1rem;
+                --bs-progress-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+                --bs-progress-bar-color: #061126; /* COLOR DEL PROGRESO */
+                --bs-progress-bar-bg: #d4d6d8; /* COLOR BARRA DE PROGRESO */
+                --bs-progress-bar-transition: width 0.6s ease;
+                display: flex;
+                height: var(--bs-progress-height);
+                overflow: hidden;
+                font-size: var(--bs-progress-font-size);
+                background-color: var(--bs-progress-bg);
+                border-radius: var(--bs-progress-border-radius);
+            }
+
+            .progress-marcado {
+                --bs-progress-height: 1rem;
+                --bs-progress-font-size: 0.75rem;
+                --bs-progress-bg: #3a4352;
+                --bs-progress-border-radius: 0.1rem;
+                --bs-progress-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+                --bs-progress-bar-color: #061126; /* COLOR DEL PROGRESO */
+                --bs-progress-bar-bg: #bce4f1; /* COLOR BARRA DE PROGRESO */
+                --bs-progress-bar-transition: width 0.6s ease;
+                display: flex;
+                height: var(--bs-progress-height);
+                overflow: hidden;
+                font-size: var(--bs-progress-font-size);
+                background-color: var(--bs-progress-bg);
+                border-radius: var(--bs-progress-border-radius);
             }
         </style>
         <title>SpaceX</title>
@@ -77,7 +111,8 @@
                         <h1 class="text-center display-1">SPACE-X</h1>
                         <h2 class="text-center fs-3 text-white mb-4">LA EMPRESA ESPACIAL DE ELON MUSK</h2>
                         <p class="lead">
-                            Con su empresa, el magnate apuesta a desarrollar las tecnologías necesarias para colonizar Marte, nombrándose, de paso, como el responsable de convertir a la humanidad en una especie multiplanetaria. Su apuesta depende del desarrollo de la Starship, nave que será capaz de transportar unas 100 toneladas de material y 100 personas por viaje, recargarse con los recursos del planeta rojo y regresar a la Tierra.
+                            Con su empresa, el magnate apuesta a desarrollar las tecnologías necesarias para colonizar Marte, nombrándose, de paso, como el responsable de convertir a la humanidad en una especie multiplanetaria. Su apuesta
+                            depende del desarrollo de la Starship, nave que será capaz de transportar unas 100 toneladas de material y 100 personas por viaje, recargarse con los recursos del planeta rojo y regresar a la Tierra.
                         </p>
                     </div>
                 </div>
@@ -88,7 +123,8 @@
                 <div class="row">
                     <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                         <p>
-                            Desde junio de 2022 Space-X es la empresa más valiosa del mundo, con un valor calculado en 120.000 millones de dólares. Su valor se ubicaría entre la posición 59 y 60 en una lista de 190 países organizados desde el mayor al menor PIB nominal en millones de dólares, estimado por el Fondo Monetario Internacional para el año 2022.
+                            Desde junio de 2022 Space-X es la empresa más valiosa del mundo, con un valor calculado en 120.000 millones de dólares. Su valor se ubicaría entre la posición 59 y 60 en una lista de 190 países organizados desde
+                            el mayor al menor PIB nominal en millones de dólares, estimado por el Fondo Monetario Internacional para el año 2022.
                         </p>
 
                         <div class="row align-items-center my-5">
@@ -117,7 +153,7 @@
                                         <tr>
                                             <th scope="row w-25">Space-X</th>
                                             <td class="w-75">
-                                                <div class="progress">
+                                                <div class="progress-marcado">
                                                     <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 90%;">USD$ 120.000 MILL.</div>
                                                 </div>
                                             </td>
@@ -175,7 +211,7 @@
                                         <tr>
                                             <th scope="row w-25">Elon Musk</th>
                                             <td class="w-75">
-                                                <div class="progress">
+                                                <div class="progress-marcado">
                                                     <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 91%;">USD$ 247.000 MILL.</div>
                                                 </div>
                                             </td>
@@ -280,7 +316,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-                        <h3 class="text-center mt-5 mb-3">EL FAVORITO DE PAPÁ</h3>
+                        <h3 class="text-center mt-5 mb-3">STARSHIP</h3>
                         <p>
                             Lograr el viaje interplanetario no sería posible sin el diseño y fabricación de la nave reutilizable Starship, originalmente llamada BFR
                             <a href="https://techcrunch.com/2018/09/19/18-new-details-about-elon-musks-redesigned-moon-bound-big-fing-rocket/" target="_blank" class="link-light">(o también conocida popularmente como Big Fucking Rocket)</a>
