@@ -6,3 +6,4 @@
 2. [SpaceX](https://www.spacex.com/)
 3. [Starship and Superheavy](https://www.space.com/spacex-starship-super-heavy.html)
 4. [SpaceX: Facts about Elon Musk's private spaceflight company](https://www.space.com/18853-spacex.html)
+5. [Anatomy of a SpaceX launch] (https://www.usatoday.com/pages/interactives/spacex-launch-graphic/)
