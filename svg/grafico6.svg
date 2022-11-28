@@ -1,4 +1,4 @@
-<svg width="391" height="328" viewBox="0 0 391 328" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="391" height="182" viewBox="0 0 391 182" fill="none" xmlns="http://www.w3.org/2000/svg">
 <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="7.14" letter-spacing="0em"><tspan x="12" y="20.4404">Masa terrestre:</tspan></text>
 <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="7.14" letter-spacing="0em"><tspan x="330.972" y="20.4404">Masa terrestre:</tspan></text>
 <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="12.4752" y="33.2874">148.9 MILLONES KM2</tspan></text>
@@ -29,11 +29,4 @@
 <path d="M106 146H285" stroke="#BBECF9" stroke-width="0.796178" stroke-miterlimit="10"/>
 <path d="M106 111H285" stroke="#BBECF9" stroke-width="0.796178" stroke-miterlimit="10"/>
 <path d="M106 78H285" stroke="#BBECF9" stroke-width="0.796178" stroke-miterlimit="10"/>
-<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="55" font-weight="bold" letter-spacing="0em"><tspan x="143.787" y="269.799">x 100</tspan></text>
-<text fill="#BEE3F2" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="13" font-weight="bold" letter-spacing="0em"><tspan x="162.786" y="320.943">10.000 veces</tspan></text>
-<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="11" letter-spacing="0em"><tspan x="104.831" y="291.26">Para llegar a 1.000.000.000 personas </tspan><tspan x="119.263" y="304.26">ser&#xed;a necesario hacer este viaje</tspan></text>
-<path d="M104 222L288 222" stroke="#BBECF9" stroke-miterlimit="10"/>
-<path d="M120.284 235.206C120.284 232.89 118.393 231 116.075 231C113.757 231 111.867 232.89 111.867 235.206C111.867 237.522 113.757 239.412 116.075 239.412C118.393 239.412 120.284 237.522 120.284 235.206Z" fill="white"/>
-<path d="M120.375 239H111.714C110.22 239 109 240.219 109 241.712V251.465C109 252.958 110.22 254.178 111.714 254.178H112.385V268.41C112.385 269.568 113.33 270.483 114.459 270.483H117.63C118.789 270.483 119.704 269.538 119.704 268.41V254.178H120.375C121.869 254.178 123.089 252.958 123.089 251.465V241.712C123.089 240.219 121.869 239 120.375 239Z" fill="white"/>
-<text fill="#BBECF9" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="11" letter-spacing="0em"><tspan x="119.536" y="216.26">Cantidad de personas por viaje</tspan></text>
 </svg>
