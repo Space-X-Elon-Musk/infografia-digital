@@ -1,6 +1,10 @@
 <svg width="294" height="581" viewBox="0 0 294 581" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="13.1381" font-weight="600" letter-spacing="0em"><tspan x="132.06" y="125.735">70 m</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="13.1381" font-weight="600" letter-spacing="0em"><tspan x="192.821" y="28.9906">119 m</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="13.1381" font-weight="600" letter-spacing="0em"><tspan x="72.3416" y="125.735">70 m</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="13.1381" font-weight="600" letter-spacing="0em"><tspan x="23.5086" y="245.172">21 m</tspan></text>
 <text fill="white" fill-opacity="0.6" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="8.11594" font-weight="bold" letter-spacing="0em"><tspan x="251.414" y="319.774">Torre&#10;</tspan><tspan x="251.802" y="329.774">Entel</tspan></text>
-<g filter="url(#filter0_d_114_345)">
+<g filter="url(#filter0_d_114_347)">
 <path d="M263.163 302.551L249.993 301.676V136.557L247.315 135.969L245.814 125.352L253.091 124.658V121.308L248.069 121.117V109.666H246.06V106.768H253.091V104.357H252.087V97.3956C252.087 97.3956 245.568 98.1892 245.814 98.134V89.701L253.091 88.6764V84.4222L246.19 84.6733V83.4026L253.091 82.4031V75.3564L246.286 75.6075V74.3267L253.091 73.3373V67.1795L251.836 67.4407V64.0605C251.836 64.0605 255.603 62.9354 257.612 62.6542V59.957H259.962V37.516H261.081V26.642L264.321 26.642V37.516H265.296V59.957H268.159V62.6592C268.159 62.6592 272.318 63.3724 273.503 64.0756V67.4357L272.68 67.1996V73.2469L279.43 74.3217V75.8586L272.68 75.3463V82.3328L279.335 83.3976V84.9345L272.68 84.4272V88.8321L278.958 89.701V98.9476C278.958 98.9476 274.689 97.5212 273.684 97.5564V104.352H272.68V106.763H279.209V109.661H277.039V121.112L272.68 121.343V124.889L278.958 125.347L277.677 135.964L275.191 136.572V301.741L263.163 302.551Z" fill="#D9D9D9" fill-opacity="0.4"/>
 </g>
 <text fill="white" fill-opacity="0.6" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="13.14" font-weight="600" letter-spacing="0em"><tspan x="239.094" y="11.9912">127,3 m</tspan></text>
@@ -185,15 +189,15 @@
 <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10.4806" font-weight="600" letter-spacing="0em"><tspan x="184" y="527.582">relanzamientos</tspan></text>
 <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10.4806" font-weight="600" letter-spacing="0em"><tspan x="184" y="477.582">aterrizajes</tspan></text>
 <defs>
-<filter id="filter0_d_114_345" x="240.998" y="26.642" width="43.241" height="285.527" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_114_347" x="240.998" y="26.642" width="43.241" height="285.527" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4.80887"/>
 <feGaussianBlur stdDeviation="2.40443"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_114_345"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_114_345" result="shape"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_114_347"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_114_347" result="shape"/>
 </filter>
 </defs>
 </svg>
